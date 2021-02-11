@@ -12,6 +12,7 @@ K_means_from_scratch.py: To implement K-means clustering algorithm from scratch 
 Run k-means algorithm for a range of values of k (ranging from 2 to 15). For each value of k,
 upon convergence (mentioned below) of your k-means algorithm, the objective
 function value is computed.
+
 https://medium.com/analytics-vidhya/k-means-clustering-optimizing-cost-function-mathematically-1ccae156299f
 
 K-means convergence criteria :
