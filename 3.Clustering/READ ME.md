@@ -12,7 +12,7 @@ spectral-clustering, for example- computing diagonal Degree matrix, Eigen-vector
 
 The 3 algorithms are implemented on 3 different datasets to understand which one is better.
 
-From the results, 
+From the results, the following can be deduced.
 * Algorithm (a) gave the worst performance.
 * In algorithm (b), two farthest points (for k=2) are chosen as cluster centers and the remaining datapoints are assigned to the center which is closer to them. Each time, the next center is chosen as far as possible from the centers that are chosen up to previous iteration. Consider a point A(x,y) in any cluster which is farthest to all the centers chosen and distance between A and its nearest center be ‘R’, then every point in that cluster must be within the distance of at most ‘2R’ (diameter of cluster).
 This kind of prediction cannot be done using algorithm (a).
