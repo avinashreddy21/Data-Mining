@@ -25,5 +25,7 @@ features (height, age, weight), and the fourth column represent class label (0/1
 Trained a decision tree DT (using Gini index metric) on “PB3_train.csv” and “PB4_train.csv” data that learns to map the mentioned features to their
 corresponding class values.
 
+Gini Index: https://medium.com/analytics-steps/understanding-the-gini-index-and-information-gain-in-decision-trees-ab4720518ba8
+
 Reported the predicted values y̅ and accuracy percentage (percentage of matches) of the model DT by
 testing it on “PB3_test.csv” and “PB4_test.csv” data.
