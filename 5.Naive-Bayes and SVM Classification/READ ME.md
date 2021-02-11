@@ -16,6 +16,6 @@ Trained three SVM classifier SV1 SV2 and SV3 on “PB1_train.csv” and “PB1 _
 
 Reported the predicted values (y̅) and accuracy percentage (percentage of matches) for each model by testing it on “PB1_test.csv” and “PB1_test.csv” data.
 
-SV1 configuration : kernel type = 'linear'
-SV2 configuration : kernel type = 'poly nomial', Degree of the polynomial kernel function = 5
-SV3 configuration : kernel type = 'radial basis function' or 'rbf'
+* SV1 configuration : kernel type = 'linear'
+* SV2 configuration : kernel type = 'poly nomial', Degree of the polynomial kernel function = 5
+* SV3 configuration : kernel type = 'radial basis function' or 'rbf'
